@@ -1,0 +1,31 @@
+.bg-color2{
+    background-color: #141414;
+    height: auto;
+}
+.text{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.figure{
+    color: #FE794E;
+    font-weight: bold;
+    
+}
+
+.card{
+    background-color: #292929;
+}
+.card-title{
+    color: white
+}
+.card-text{
+    color: white
+}
+.card:hover{
+    background-color: #FE794E;
+    
+    .figure{
+       color: #141414;
+    }
+ }

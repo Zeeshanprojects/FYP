@@ -1,0 +1,30 @@
+.bg-color5{
+    background-color: #141414;
+    height: auto;
+}
+.platform-designed{
+    text-align: center;
+    color: white;
+}
+.platform{
+    color: #FE794E;
+}
+.btn2{
+    background-color: #fe794e;
+  text-align: center;
+ 
+  color: white;
+  height: 40px;
+  width: 220px;
+}
+.btn2:hover{
+background-color: orange;
+}
+.template{
+    color:  #fe794e;
+}
+.cards{
+    height: 200px;
+    background-color:#292929;
+}
+

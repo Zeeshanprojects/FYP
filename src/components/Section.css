@@ -1,0 +1,62 @@
+.bg-color1{
+  background-color: #141414;
+  height: auto;
+}
+
+.Text{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+   
+    margin-top: 80px;
+    
+}
+.dashed {
+    border-bottom: 2px solid white;
+    text-align: center;
+    margin-left: 5%;
+    width: 90%;
+  }
+  
+.backend-text {
+    color:#fe794e; 
+    font-weight: bold; 
+  }
+  
+.lowcode{
+  color: white;
+ text-align: center;
+ 
+}
+.visual-backend-builder{
+  color: white;
+  text-align: center;
+  padding-left: 20px;
+
+}
+.powered-by-AI{
+  color: white;
+ text-align: center;
+ 
+ padding-left: 20px;
+
+}
+.get-started-itsfree{
+  background-color: #fe794e;
+ text-align: center;
+ margin-left: 480px;
+  color: white;
+
+height: 30px;
+}
+.btn1{
+  background-color: #fe794e;
+  text-align: center;
+  margin-left: 540px;
+  color: white;
+  height: 40px;
+  width: 220px;
+}
+.btn1:hover{
+  background-color: orange;
+}

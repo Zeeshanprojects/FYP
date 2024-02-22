@@ -1,0 +1,22 @@
+.navbar-brand {
+  font-weight: bold;
+  margin-left: 50px;
+}
+.dashboard {
+  background-color: #FE794E;
+  color: white;
+  height: 37px;
+  width: 144px;
+  border-radius: 6px;
+  margin-right: 50px;
+}
+.dashboard:hover{
+  background-color: orange;
+}
+.nav-link {
+  padding-left: 100px;
+  margin-left: 10px;
+}
+.bg{
+  background-color: #141414;
+}

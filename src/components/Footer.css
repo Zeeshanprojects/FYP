@@ -1,0 +1,40 @@
+.bg-color6 {
+  background-color: #141414;
+  height: auto;
+}
+.ideas {
+  color: #fe794e;
+}
+.start {
+  color: white;
+  margin-top: 30px;
+}
+.try {
+  color: white;
+  margin-top: 30px;
+  margin-left: 300px;
+}
+.btn3 {
+  background-color: #fe794e;
+  text-align: center;
+  margin-left: 400px;
+color: white;
+  height: 40px;
+  width: 220px;
+}
+.box2{
+    color: white;
+}
+.box3{
+    color: white;
+}
+.box4{
+    color: white;
+}
+.clbs{
+    color:white
+}
+.built-by-team{
+    color: white;
+    text-align: end;
+}

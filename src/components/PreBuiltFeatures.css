@@ -1,0 +1,36 @@
+.bg-color3{
+    background-color: #141414;
+    height: auto;
+}
+.heading{
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+.paragraph{
+    color: white;
+    text-align: center;
+    font-size: small;
+}
+.box{
+    background-color: #292929;
+}
+.generate{
+    color: white;
+    margin-top: 30px;
+margin-left: 20px;
+}
+.box{
+    background-color: #292929;
+    height: 100px;
+}
+.btn{
+   
+    text-align: center;
+    margin-top: 30px;
+}
+.btn:hover{
+    background-color: #FE794E;
+    
+}
